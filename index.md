@@ -1,2 +1,3 @@
-Anteckningar från worskhopen.
-Datum: 180111
+##Anteckningar från worskhopen.
+__Datum: 180111__
+_Anteckningar_
